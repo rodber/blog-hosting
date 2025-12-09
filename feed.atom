@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rodolfoberrios.com/</id>
+    <title>Rodolfo Berrios</title>
+    <updated>2025-12-09T19:26:37.657Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://rodolfoberrios.com/"/>
+    <link rel="self" href="https://rodolfoberrios.com/feed.atom"/>
+    <subtitle>Rodolfo blogging since 2012.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 4.4]]></title>
+        <id>https://rodolfoberrios.com/2025/12/09/chevereto-4-4/</id>
+        <link href="https://rodolfoberrios.com/2025/12/09/chevereto-4-4/">
+        </link>
+        <updated>2025-12-09T19:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Chevereto goes multitenant]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 4.3]]></title>
+        <id>https://rodolfoberrios.com/2025/05/18/chevereto-4-3/</id>
+        <link href="https://rodolfoberrios.com/2025/05/18/chevereto-4-3/">
+        </link>
+        <updated>2025-05-18T18:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Scaling up, chunk by chunk]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow 1.0]]></title>
+        <id>https://rodolfoberrios.com/2025/01/16/workflow-1-0/</id>
+        <link href="https://rodolfoberrios.com/2025/01/16/workflow-1-0/">
+        </link>
+        <updated>2025-01-16T14:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Workflow procedures for PHP]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xrDebug 3.0]]></title>
+        <id>https://rodolfoberrios.com/2024/12/26/xrdebug-3-0/</id>
+        <link href="https://rodolfoberrios.com/2024/12/26/xrdebug-3-0/">
+        </link>
+        <updated>2024-12-26T18:16:39.000Z</updated>
+        <summary type="html"><![CDATA[Go xrDebug!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 4.2]]></title>
+        <id>https://rodolfoberrios.com/2024/11/20/chevereto-4-2/</id>
+        <link href="https://rodolfoberrios.com/2024/11/20/chevereto-4-2/">
+        </link>
+        <updated>2024-11-20T20:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Ready for Chevereto as a service]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xrDebug WordPress]]></title>
+        <id>https://rodolfoberrios.com/2024/07/13/xrdebug-wordpress/</id>
+        <link href="https://rodolfoberrios.com/2024/07/13/xrdebug-wordpress/">
+        </link>
+        <updated>2024-07-13T19:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Debug WordPress with xrDebug]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xrDebug 2.0]]></title>
+        <id>https://rodolfoberrios.com/2024/06/24/xrdebug-2-0/</id>
+        <link href="https://rodolfoberrios.com/2024/06/24/xrdebug-2-0/">
+        </link>
+        <updated>2024-06-24T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Lightweight portable debug utility]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevere VarDump 2.0]]></title>
+        <id>https://rodolfoberrios.com/2024/06/03/chevere-var-dump-2-0/</id>
+        <link href="https://rodolfoberrios.com/2024/06/03/chevere-var-dump-2-0/">
+        </link>
+        <updated>2024-06-03T18:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Beautiful looking dumps!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 4.1]]></title>
+        <id>https://rodolfoberrios.com/2024/04/20/chevereto-4-1/</id>
+        <link href="https://rodolfoberrios.com/2024/04/20/chevereto-4-1/">
+        </link>
+        <updated>2024-04-20T15:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the Pulento series V4.1]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch xrDebug at MergePHP]]></title>
+        <id>https://rodolfoberrios.com/2024/03/19/xrdebug-mergephp/</id>
+        <link href="https://rodolfoberrios.com/2024/03/19/xrdebug-mergephp/">
+        </link>
+        <updated>2024-03-19T14:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Introducing xrDebug at MergePHP]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordle-CLI]]></title>
+        <id>https://rodolfoberrios.com/2024/03/08/wordle-cli/</id>
+        <link href="https://rodolfoberrios.com/2024/03/08/wordle-cli/">
+        </link>
+        <updated>2024-03-08T14:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Rodber's Wordle-CLI]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevere SQL2P 1.0]]></title>
+        <id>https://rodolfoberrios.com/2024/01/16/sql2p/</id>
+        <link href="https://rodolfoberrios.com/2024/01/16/sql2p/">
+        </link>
+        <updated>2024-01-16T13:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Parameter(s) for MySQL schemas]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevere Action 1.0]]></title>
+        <id>https://rodolfoberrios.com/2024/01/11/action/</id>
+        <link href="https://rodolfoberrios.com/2024/01/11/action/">
+        </link>
+        <updated>2024-01-11T12:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Convention for working with Parameter]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevere Parameter 1.0]]></title>
+        <id>https://rodolfoberrios.com/2024/01/10/parameter/</id>
+        <link href="https://rodolfoberrios.com/2024/01/10/parameter/">
+        </link>
+        <updated>2024-01-10T14:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Library around parameter-argument]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevere Regex 1.0]]></title>
+        <id>https://rodolfoberrios.com/2024/01/09/regex/</id>
+        <link href="https://rodolfoberrios.com/2024/01/09/regex/">
+        </link>
+        <updated>2024-01-09T10:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Validated regular expression]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevere Message 1.0]]></title>
+        <id>https://rodolfoberrios.com/2024/01/08/message/</id>
+        <link href="https://rodolfoberrios.com/2024/01/08/message/">
+        </link>
+        <updated>2024-01-08T22:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Strings with template tags support]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schwager HTML]]></title>
+        <id>https://rodolfoberrios.com/2023/10/28/schwager-html/</id>
+        <link href="https://rodolfoberrios.com/2023/10/28/schwager-html/">
+        </link>
+        <updated>2023-10-28T17:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Generates docs for Schwager]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xrDebug 1.0]]></title>
+        <id>https://rodolfoberrios.com/2023/10/10/xrdebug-1-0/</id>
+        <link href="https://rodolfoberrios.com/2023/10/10/xrdebug-1-0/">
+        </link>
+        <updated>2023-10-10T15:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Lightweight portable debug utility]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schwager API]]></title>
+        <id>https://rodolfoberrios.com/2023/06/20/schwager-api/</id>
+        <link href="https://rodolfoberrios.com/2023/06/20/schwager-api/">
+        </link>
+        <updated>2023-06-20T10:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Al empate Schwager.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevere Http]]></title>
+        <id>https://rodolfoberrios.com/2023/06/13/http/</id>
+        <link href="https://rodolfoberrios.com/2023/06/13/http/">
+        </link>
+        <updated>2023-06-13T18:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Clean and typed strict HTTP components.]]></summary>
+    </entry>
+</feed>

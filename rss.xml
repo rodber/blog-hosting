@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Rodolfo Berrios</title>
+        <link>https://rodolfoberrios.com/</link>
+        <description>Rodolfo blogging since 2012.</description>
+        <lastBuildDate>Tue, 09 Dec 2025 19:26:37 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://rodolfoberrios.com/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chevereto 4.4]]></title>
+            <link>https://rodolfoberrios.com/2025/12/09/chevereto-4-4/</link>
+            <guid>https://rodolfoberrios.com/2025/12/09/chevereto-4-4/</guid>
+            <pubDate>Tue, 09 Dec 2025 19:09:06 GMT</pubDate>
+            <description><![CDATA[Chevereto goes multitenant]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2025/uriel-soberanes-0DqFVmsxn6w-unsplash.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevereto 4.3]]></title>
+            <link>https://rodolfoberrios.com/2025/05/18/chevereto-4-3/</link>
+            <guid>https://rodolfoberrios.com/2025/05/18/chevereto-4-3/</guid>
+            <pubDate>Sun, 18 May 2025 18:27:02 GMT</pubDate>
+            <description><![CDATA[Scaling up, chunk by chunk]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2025/chuttersnap-MpxAiNDevjU-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Workflow 1.0]]></title>
+            <link>https://rodolfoberrios.com/2025/01/16/workflow-1-0/</link>
+            <guid>https://rodolfoberrios.com/2025/01/16/workflow-1-0/</guid>
+            <pubDate>Thu, 16 Jan 2025 14:37:49 GMT</pubDate>
+            <description><![CDATA[Workflow procedures for PHP]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/workflow/walkman/workflow-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[xrDebug 3.0]]></title>
+            <link>https://rodolfoberrios.com/2024/12/26/xrdebug-3-0/</link>
+            <guid>https://rodolfoberrios.com/2024/12/26/xrdebug-3-0/</guid>
+            <pubDate>Thu, 26 Dec 2024 18:16:39 GMT</pubDate>
+            <description><![CDATA[Go xrDebug!]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2024/xrdebug-3.0.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevereto 4.2]]></title>
+            <link>https://rodolfoberrios.com/2024/11/20/chevereto-4-2/</link>
+            <guid>https://rodolfoberrios.com/2024/11/20/chevereto-4-2/</guid>
+            <pubDate>Wed, 20 Nov 2024 20:53:30 GMT</pubDate>
+            <description><![CDATA[Ready for Chevereto as a service]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2024/pexels-banananardini-1570610.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[xrDebug WordPress]]></title>
+            <link>https://rodolfoberrios.com/2024/07/13/xrdebug-wordpress/</link>
+            <guid>https://rodolfoberrios.com/2024/07/13/xrdebug-wordpress/</guid>
+            <pubDate>Sat, 13 Jul 2024 19:45:38 GMT</pubDate>
+            <description><![CDATA[Debug WordPress with xrDebug]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/xrdebug/packages/wordpress/xrdebug-wordpress-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[xrDebug 2.0]]></title>
+            <link>https://rodolfoberrios.com/2024/06/24/xrdebug-2-0/</link>
+            <guid>https://rodolfoberrios.com/2024/06/24/xrdebug-2-0/</guid>
+            <pubDate>Mon, 24 Jun 2024 16:25:11 GMT</pubDate>
+            <description><![CDATA[Lightweight portable debug utility]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/xrdebug/packages/xrdebug/xrdebug-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevere VarDump 2.0]]></title>
+            <link>https://rodolfoberrios.com/2024/06/03/chevere-var-dump-2-0/</link>
+            <guid>https://rodolfoberrios.com/2024/06/03/chevere-var-dump-2-0/</guid>
+            <pubDate>Mon, 03 Jun 2024 18:51:42 GMT</pubDate>
+            <description><![CDATA[Beautiful looking dumps!]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/var-dump/var-dump-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevereto 4.1]]></title>
+            <link>https://rodolfoberrios.com/2024/04/20/chevereto-4-1/</link>
+            <guid>https://rodolfoberrios.com/2024/04/20/chevereto-4-1/</guid>
+            <pubDate>Sat, 20 Apr 2024 15:16:54 GMT</pubDate>
+            <description><![CDATA[Introducing the Pulento series V4.1]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2024/chevereto-ultimate-remix.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Watch xrDebug at MergePHP]]></title>
+            <link>https://rodolfoberrios.com/2024/03/19/xrdebug-mergephp/</link>
+            <guid>https://rodolfoberrios.com/2024/03/19/xrdebug-mergephp/</guid>
+            <pubDate>Tue, 19 Mar 2024 14:08:53 GMT</pubDate>
+            <description><![CDATA[Introducing xrDebug at MergePHP]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2024/xrdebug-mergephp.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Wordle-CLI]]></title>
+            <link>https://rodolfoberrios.com/2024/03/08/wordle-cli/</link>
+            <guid>https://rodolfoberrios.com/2024/03/08/wordle-cli/</guid>
+            <pubDate>Fri, 08 Mar 2024 14:36:22 GMT</pubDate>
+            <description><![CDATA[Rodber's Wordle-CLI]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2024/wordle-cli-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevere SQL2P 1.0]]></title>
+            <link>https://rodolfoberrios.com/2024/01/16/sql2p/</link>
+            <guid>https://rodolfoberrios.com/2024/01/16/sql2p/</guid>
+            <pubDate>Tue, 16 Jan 2024 13:05:52 GMT</pubDate>
+            <description><![CDATA[Parameter(s) for MySQL schemas]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/sql2p/sql2p-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevere Action 1.0]]></title>
+            <link>https://rodolfoberrios.com/2024/01/11/action/</link>
+            <guid>https://rodolfoberrios.com/2024/01/11/action/</guid>
+            <pubDate>Thu, 11 Jan 2024 12:05:51 GMT</pubDate>
+            <description><![CDATA[Convention for working with Parameter]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/action/action-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevere Parameter 1.0]]></title>
+            <link>https://rodolfoberrios.com/2024/01/10/parameter/</link>
+            <guid>https://rodolfoberrios.com/2024/01/10/parameter/</guid>
+            <pubDate>Wed, 10 Jan 2024 14:10:59 GMT</pubDate>
+            <description><![CDATA[Library around parameter-argument]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/parameter/parameter-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevere Regex 1.0]]></title>
+            <link>https://rodolfoberrios.com/2024/01/09/regex/</link>
+            <guid>https://rodolfoberrios.com/2024/01/09/regex/</guid>
+            <pubDate>Tue, 09 Jan 2024 10:44:35 GMT</pubDate>
+            <description><![CDATA[Validated regular expression]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/regex/regex-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevere Message 1.0]]></title>
+            <link>https://rodolfoberrios.com/2024/01/08/message/</link>
+            <guid>https://rodolfoberrios.com/2024/01/08/message/</guid>
+            <pubDate>Mon, 08 Jan 2024 22:49:08 GMT</pubDate>
+            <description><![CDATA[Strings with template tags support]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/message/message-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Schwager HTML]]></title>
+            <link>https://rodolfoberrios.com/2023/10/28/schwager-html/</link>
+            <guid>https://rodolfoberrios.com/2023/10/28/schwager-html/</guid>
+            <pubDate>Sat, 28 Oct 2023 17:11:12 GMT</pubDate>
+            <description><![CDATA[Generates docs for Schwager]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/schwager-html/schwager-html-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[xrDebug 1.0]]></title>
+            <link>https://rodolfoberrios.com/2023/10/10/xrdebug-1-0/</link>
+            <guid>https://rodolfoberrios.com/2023/10/10/xrdebug-1-0/</guid>
+            <pubDate>Tue, 10 Oct 2023 15:15:50 GMT</pubDate>
+            <description><![CDATA[Lightweight portable debug utility]]></description>
+            <enclosure url="https://rodolfoberrios.com/photos/2023/xrdebug/1.0.0/xrdebug-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Schwager API]]></title>
+            <link>https://rodolfoberrios.com/2023/06/20/schwager-api/</link>
+            <guid>https://rodolfoberrios.com/2023/06/20/schwager-api/</guid>
+            <pubDate>Tue, 20 Jun 2023 10:25:53 GMT</pubDate>
+            <description><![CDATA[Al empate Schwager.]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/schwager/schwager-social.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevere Http]]></title>
+            <link>https://rodolfoberrios.com/2023/06/13/http/</link>
+            <guid>https://rodolfoberrios.com/2023/06/13/http/</guid>
+            <pubDate>Tue, 13 Jun 2023 18:25:55 GMT</pubDate>
+            <description><![CDATA[Clean and typed strict HTTP components.]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/http/http-social.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

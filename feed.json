@@ -1,0 +1,169 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rodolfo Berrios",
+    "home_page_url": "https://rodolfoberrios.com/",
+    "feed_url": "https://rodolfoberrios.com/feed.json",
+    "description": "Rodolfo blogging since 2012.",
+    "items": [
+        {
+            "id": "https://rodolfoberrios.com/2025/12/09/chevereto-4-4/",
+            "url": "https://rodolfoberrios.com/2025/12/09/chevereto-4-4/",
+            "title": "Chevereto 4.4",
+            "summary": "Chevereto goes multitenant",
+            "image": "https://rodolfoberrios.com/photos/2025/uriel-soberanes-0DqFVmsxn6w-unsplash.webp",
+            "date_modified": "2025-12-09T19:09:06.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2025/05/18/chevereto-4-3/",
+            "url": "https://rodolfoberrios.com/2025/05/18/chevereto-4-3/",
+            "title": "Chevereto 4.3",
+            "summary": "Scaling up, chunk by chunk",
+            "image": "https://rodolfoberrios.com/photos/2025/chuttersnap-MpxAiNDevjU-unsplash.jpg",
+            "date_modified": "2025-05-18T18:27:02.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2025/01/16/workflow-1-0/",
+            "url": "https://rodolfoberrios.com/2025/01/16/workflow-1-0/",
+            "title": "Workflow 1.0",
+            "summary": "Workflow procedures for PHP",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/workflow/walkman/workflow-social.png",
+            "date_modified": "2025-01-16T14:37:49.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/12/26/xrdebug-3-0/",
+            "url": "https://rodolfoberrios.com/2024/12/26/xrdebug-3-0/",
+            "title": "xrDebug 3.0",
+            "summary": "Go xrDebug!",
+            "image": "https://rodolfoberrios.com/photos/2024/xrdebug-3.0.webp",
+            "date_modified": "2024-12-26T18:16:39.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/11/20/chevereto-4-2/",
+            "url": "https://rodolfoberrios.com/2024/11/20/chevereto-4-2/",
+            "title": "Chevereto 4.2",
+            "summary": "Ready for Chevereto as a service",
+            "image": "https://rodolfoberrios.com/photos/2024/pexels-banananardini-1570610.jpg",
+            "date_modified": "2024-11-20T20:53:30.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/07/13/xrdebug-wordpress/",
+            "url": "https://rodolfoberrios.com/2024/07/13/xrdebug-wordpress/",
+            "title": "xrDebug WordPress",
+            "summary": "Debug WordPress with xrDebug",
+            "image": "https://rodolfoberrios.com/org/xrdebug/packages/wordpress/xrdebug-wordpress-social.png",
+            "date_modified": "2024-07-13T19:45:38.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/06/24/xrdebug-2-0/",
+            "url": "https://rodolfoberrios.com/2024/06/24/xrdebug-2-0/",
+            "title": "xrDebug 2.0",
+            "summary": "Lightweight portable debug utility",
+            "image": "https://rodolfoberrios.com/org/xrdebug/packages/xrdebug/xrdebug-social.png",
+            "date_modified": "2024-06-24T16:25:11.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/06/03/chevere-var-dump-2-0/",
+            "url": "https://rodolfoberrios.com/2024/06/03/chevere-var-dump-2-0/",
+            "title": "Chevere VarDump 2.0",
+            "summary": "Beautiful looking dumps!",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/var-dump/var-dump-social.png",
+            "date_modified": "2024-06-03T18:51:42.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/04/20/chevereto-4-1/",
+            "url": "https://rodolfoberrios.com/2024/04/20/chevereto-4-1/",
+            "title": "Chevereto 4.1",
+            "summary": "Introducing the Pulento series V4.1",
+            "image": "https://rodolfoberrios.com/photos/2024/chevereto-ultimate-remix.png",
+            "date_modified": "2024-04-20T15:16:54.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/03/19/xrdebug-mergephp/",
+            "url": "https://rodolfoberrios.com/2024/03/19/xrdebug-mergephp/",
+            "title": "Watch xrDebug at MergePHP",
+            "summary": "Introducing xrDebug at MergePHP",
+            "image": "https://rodolfoberrios.com/photos/2024/xrdebug-mergephp.webp",
+            "date_modified": "2024-03-19T14:08:53.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/03/08/wordle-cli/",
+            "url": "https://rodolfoberrios.com/2024/03/08/wordle-cli/",
+            "title": "Wordle-CLI",
+            "summary": "Rodber's Wordle-CLI",
+            "image": "https://rodolfoberrios.com/photos/2024/wordle-cli-social.png",
+            "date_modified": "2024-03-08T14:36:22.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/01/16/sql2p/",
+            "url": "https://rodolfoberrios.com/2024/01/16/sql2p/",
+            "title": "Chevere SQL2P 1.0",
+            "summary": "Parameter(s) for MySQL schemas",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/sql2p/sql2p-social.png",
+            "date_modified": "2024-01-16T13:05:52.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/01/11/action/",
+            "url": "https://rodolfoberrios.com/2024/01/11/action/",
+            "title": "Chevere Action 1.0",
+            "summary": "Convention for working with Parameter",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/action/action-social.png",
+            "date_modified": "2024-01-11T12:05:51.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/01/10/parameter/",
+            "url": "https://rodolfoberrios.com/2024/01/10/parameter/",
+            "title": "Chevere Parameter 1.0",
+            "summary": "Library around parameter-argument",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/parameter/parameter-social.png",
+            "date_modified": "2024-01-10T14:10:59.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/01/09/regex/",
+            "url": "https://rodolfoberrios.com/2024/01/09/regex/",
+            "title": "Chevere Regex 1.0",
+            "summary": "Validated regular expression",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/regex/regex-social.png",
+            "date_modified": "2024-01-09T10:44:35.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2024/01/08/message/",
+            "url": "https://rodolfoberrios.com/2024/01/08/message/",
+            "title": "Chevere Message 1.0",
+            "summary": "Strings with template tags support",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/message/message-social.png",
+            "date_modified": "2024-01-08T22:49:08.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2023/10/28/schwager-html/",
+            "url": "https://rodolfoberrios.com/2023/10/28/schwager-html/",
+            "title": "Schwager HTML",
+            "summary": "Generates docs for Schwager",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/schwager-html/schwager-html-social.png",
+            "date_modified": "2023-10-28T17:11:12.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2023/10/10/xrdebug-1-0/",
+            "url": "https://rodolfoberrios.com/2023/10/10/xrdebug-1-0/",
+            "title": "xrDebug 1.0",
+            "summary": "Lightweight portable debug utility",
+            "image": "https://rodolfoberrios.com/photos/2023/xrdebug/1.0.0/xrdebug-social.png",
+            "date_modified": "2023-10-10T15:15:50.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2023/06/20/schwager-api/",
+            "url": "https://rodolfoberrios.com/2023/06/20/schwager-api/",
+            "title": "Schwager API",
+            "summary": "Al empate Schwager.",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/schwager/schwager-social.png",
+            "date_modified": "2023-06-20T10:25:53.000Z"
+        },
+        {
+            "id": "https://rodolfoberrios.com/2023/06/13/http/",
+            "url": "https://rodolfoberrios.com/2023/06/13/http/",
+            "title": "Chevere Http",
+            "summary": "Clean and typed strict HTTP components.",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/http/http-social.png",
+            "date_modified": "2023-06-13T18:25:55.000Z"
+        }
+    ]
+}
