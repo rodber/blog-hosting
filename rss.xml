@@ -4,10 +4,19 @@
         <title>Rodolfo Berrios</title>
         <link>https://rodolfoberrios.com/</link>
         <description>Rodolfo blogging since 2012.</description>
-        <lastBuildDate>Sat, 12 Sep 2026 21:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 13:57:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://rodolfoberrios.com/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chevere Workflow VS Code extension]]></title>
+            <link>https://rodolfoberrios.com/2026/10/29/vscode-workflow/</link>
+            <guid>https://rodolfoberrios.com/2026/10/29/vscode-workflow/</guid>
+            <pubDate>Thu, 29 Oct 2026 13:25:53 GMT</pubDate>
+            <description><![CDATA[Flowing workflows]]></description>
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/vscode-workflow/vscode-workflow-social.png">
+            </enclosure>
+        </item>
         <item>
             <title><![CDATA[Chevere Authorization]]></title>
             <link>https://rodolfoberrios.com/2026/09/12/authorization/</link>
@@ -41,7 +50,7 @@
             <guid>https://rodolfoberrios.com/2026/05/11/workflow-laravel/</guid>
             <pubDate>Mon, 11 May 2026 17:28:52 GMT</pubDate>
             <description><![CDATA[Declarative multi-step workflows for Laravel on top of chevere/workflow]]></description>
-            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/workflow-laravel/workflow-social.png">
+            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/workflow-laravel/workflow-laravel-social.png">
             </enclosure>
         </item>
         <item>
@@ -177,15 +186,6 @@
             <pubDate>Wed, 10 Jan 2024 14:10:59 GMT</pubDate>
             <description><![CDATA[Library around parameter-argument]]></description>
             <enclosure url="https://rodolfoberrios.com/org/chevere/packages/parameter/parameter-social-parody.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Chevere Regex 1.0]]></title>
-            <link>https://rodolfoberrios.com/2024/01/09/regex/</link>
-            <guid>https://rodolfoberrios.com/2024/01/09/regex/</guid>
-            <pubDate>Tue, 09 Jan 2024 10:44:35 GMT</pubDate>
-            <description><![CDATA[Validated regular expression]]></description>
-            <enclosure url="https://rodolfoberrios.com/org/chevere/packages/regex/regex-social-parody.png">
             </enclosure>
         </item>
     </channel>

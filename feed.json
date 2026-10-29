@@ -6,6 +6,14 @@
     "description": "Rodolfo blogging since 2012.",
     "items": [
         {
+            "id": "https://rodolfoberrios.com/2026/10/29/vscode-workflow/",
+            "url": "https://rodolfoberrios.com/2026/10/29/vscode-workflow/",
+            "title": "Chevere Workflow VS Code extension",
+            "summary": "Flowing workflows",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/vscode-workflow/vscode-workflow-social.png",
+            "date_modified": "2026-10-29T13:25:53.000Z"
+        },
+        {
             "id": "https://rodolfoberrios.com/2026/09/12/authorization/",
             "url": "https://rodolfoberrios.com/2026/09/12/authorization/",
             "title": "Chevere Authorization",
@@ -34,7 +42,7 @@
             "url": "https://rodolfoberrios.com/2026/05/11/workflow-laravel/",
             "title": "Chevere Workflow for Laravel",
             "summary": "Declarative multi-step workflows for Laravel on top of chevere/workflow",
-            "image": "https://rodolfoberrios.com/org/chevere/packages/workflow-laravel/workflow-social.png",
+            "image": "https://rodolfoberrios.com/org/chevere/packages/workflow-laravel/workflow-laravel-social.png",
             "date_modified": "2026-05-11T17:28:52.000Z"
         },
         {
@@ -156,14 +164,6 @@
             "summary": "Library around parameter-argument",
             "image": "https://rodolfoberrios.com/org/chevere/packages/parameter/parameter-social-parody.png",
             "date_modified": "2024-01-10T14:10:59.000Z"
-        },
-        {
-            "id": "https://rodolfoberrios.com/2024/01/09/regex/",
-            "url": "https://rodolfoberrios.com/2024/01/09/regex/",
-            "title": "Chevere Regex 1.0",
-            "summary": "Validated regular expression",
-            "image": "https://rodolfoberrios.com/org/chevere/packages/regex/regex-social-parody.png",
-            "date_modified": "2024-01-09T10:44:35.000Z"
         }
     ]
 }
